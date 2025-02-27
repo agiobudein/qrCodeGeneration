@@ -102,5 +102,3 @@ You can test the API using Postman:
 1. **Generate QR Code** (`POST http://localhost:8080/api/payments/generate`)
 2. **Process Payment** (`POST http://localhost:8080/api/payments/process`)
 3. **Check Balance** (`GET http://localhost:8080/api/users/{userId}/balance`)
-
-For more details, visit the [GitHub repository](https://github.com/agiobudein/qrCodeGeneration).
